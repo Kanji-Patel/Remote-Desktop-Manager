@@ -13,10 +13,16 @@ Remote Desktop is very useful for managing remote computers. I have decided to e
 Points of Interest
 
 
--->Can store all remote machine details at one place 
+-->Can store all remote machine details at one place
+
 -->Search feature
+
 -->can have multiple connection in one application same time
+
 -->Full screen feature
+
 -->Easy to use
+
 -->Can share connections with other, (From C:\RemoteConnectionDetails.xml, give your connection to other person so it reduces recreating)
+
 -->Encrypted connection passwords
