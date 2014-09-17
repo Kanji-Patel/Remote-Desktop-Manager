@@ -26,3 +26,8 @@ Points of Interest
 -->Can share connections with other, (From C:\RemoteConnectionDetails.xml, give your connection to other person so it reduces recreating)
 
 -->Encrypted connection passwords
+
+
+For more information please visit : http://totalyinfo.blogspot.com/2014/06/remote-desktop-connection-manager-multi.html
+
+Please give some donation to developer to create better tools for you : https://gratipay.com/kanji11/
