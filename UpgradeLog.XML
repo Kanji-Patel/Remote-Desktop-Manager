@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Remote Desktop">
+</Property><Property Name="Solution File" Value="D:\Kanji\kanji\GIT Repository\Remote Desktop\Remote Desktop.sln">
+</Property><Property Name="Date" Value="Wednesday, February 26, 2014">
+</Property><Property Name="Time" Value="13:14:58">
+</Property></Properties><Event ErrorLevel="0" Project="Remote Desktop" Source="Remote Desktop.vbproj" Description="Project file successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Remote Desktop.vbproj">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Remote Desktop.vbproj.user" Description="Project user file successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Remote Desktop.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Classes\clsDesCrypto.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Classes\clsDesCrypto.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmAbout.Designer.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmAbout.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmAbout.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmAbout.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmAddNew.Designer.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmAddNew.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmAddNew.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmAddNew.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmMain.Designer.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmMain.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmMain.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmSettings.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmSettings.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmSettings.Designer.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmSettings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmTerminal.Designer.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmTerminal.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmTerminal.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmTerminal.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="ModGeneral.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\ModGeneral.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="My Project\Application.myapp" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="My Project\Settings.settings" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Resources\DeleteRed1.png" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Resources\DeleteRed1.png">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Resources\RemoteDesktopConnection.jpg" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Resources\RemoteDesktopConnection.jpg">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Resources\user-info-icon.png" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Resources\user-info-icon.png">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Resources\logout.png" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Resources\logout.png">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Resources\Network-Remote-Desktop-icon.png" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Resources\Network-Remote-Desktop-icon.png">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Resources\settings-icon.png" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Resources\settings-icon.png">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Resources\Remote-Desktop.ico" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Resources\Remote-Desktop.ico">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Resources\PC-a-icon.png" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Resources\PC-a-icon.png">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmAbout.resx" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmAddNew.resx" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmAddNew.resx">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmMain.resx" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmSettings.resx" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmSettings.resx">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Form\frmTerminal.resx" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\Form\frmTerminal.resx">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="My Project\Resources.resx" Description="File successfully backed up as D:\Kanji\kanji\GIT Repository\Remote Desktop\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="Remote Desktop" Source="Remote Desktop.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Remote Desktop.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Remote Desktop" Source="Remote Desktop.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Remote Desktop" Source="Remote Desktop.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
